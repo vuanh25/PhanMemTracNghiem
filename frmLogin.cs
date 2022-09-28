@@ -15,6 +15,13 @@ namespace PhanMemThiTracNghiem
         public frmLogin()
         {
             InitializeComponent();
+            this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
+        }
+
+        private void frmLogin_MouseDown(object sender, MouseEventArgs e)
+        {
+            Event.ReleaseCapture();
+            Event.SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
     }
 }

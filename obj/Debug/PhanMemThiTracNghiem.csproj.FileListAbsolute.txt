@@ -22,3 +22,16 @@ C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNgh
 C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.dll
 C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.xml
 C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\Guna.UI2.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.fAdmin.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.PageClone.AddListGVExcel.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.PageClone.ThemmotGV.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\ClosedXML.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\ClosedXML.pdb
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\ClosedXML.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\System.Data.SqlClient.xml
